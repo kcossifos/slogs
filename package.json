@@ -1,0 +1,11 @@
+{
+  "name": "slog",
+  "version": "1.0.0",
+  "description": "debug utility tool",
+  "main": "src/util.js",
+  "scripts": {
+    "test": "DEBUG=true mocha"
+  },
+  "author": "sean ed",
+  "license": "ISC"
+}
