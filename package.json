@@ -1,6 +1,6 @@
 {
   "name": "slogs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "debug utility tool",
   "main": "src/util.js",
   "scripts": {

@@ -34,7 +34,7 @@ DEBUG = true nodemon
 write it in this format
 
 ```
-util.debug('example route hit');
+slogs.debug('example route hit');
 ```
 Example Output:
 
