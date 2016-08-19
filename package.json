@@ -4,7 +4,7 @@
   "description": "debug utility tool",
   "main": "src/util.js",
   "scripts": {
-    "start": "nodemon src/util.js"
+    "start": "nodemon src/util.js",
     "test": "DEBUG=true nodemon"
   },
   "author": "seanedw1",
