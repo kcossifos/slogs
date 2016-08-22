@@ -50,4 +50,4 @@ example route hit
 [Airbnb](https://github.com/airbnb/javascript)
 
 ###Contributors
-[View Contributors](https://github.com/seanedw1/uTool/graphs/contributors)
+[View Contributors](https://github.com/seanedw1/slogs/graphs/contributors)
