@@ -1,5 +1,7 @@
 #slogs
 
+[ ![codeship status for seanedw1/slogs](https://codeship.com/projects/ca3bc860-4ad7-0134-8ad1-3eedfb4d574d/status?branch=master)](https://codeship.com/projects/169771)
+
 ## Install packages
 
 In terminal run commands below to install package
